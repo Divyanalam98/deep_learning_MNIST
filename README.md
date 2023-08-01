@@ -1,4 +1,5 @@
-# deep_learning_MNIST
+# Handwritten Digit Recognition with Deep Learning
+
 ![image](https://github.com/Divyanalam98/deep_learning_MNIST/assets/63960112/e4fb3a10-a1a5-477b-a022-f44044810ee8)
 
 Deep learning using the MNIST dataset involves training neural networks to perform handwritten digit recognition.
